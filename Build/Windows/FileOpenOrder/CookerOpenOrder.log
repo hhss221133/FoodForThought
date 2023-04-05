@@ -97,12 +97,12 @@
 "../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.ubulk" 96
 "../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 97
 "../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 98
-"../../../Engine/Content/EditorResources/S_Solver.ubulk" 99
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 100
-"../../../Engine/Content/EditorResources/S_Solver.uexp" 101
-"../../../Engine/Content/EditorMeshes/EditorSphere.ubulk" 102
-"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 103
-"../../../Engine/Content/EditorMeshes/EditorSphere.uexp" 104
+"../../../Engine/Content/EditorMeshes/EditorSphere.ubulk" 99
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 100
+"../../../Engine/Content/EditorMeshes/EditorSphere.uexp" 101
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 102
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 103
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 104
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.ubulk" 105
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset" 106
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uexp" 107
@@ -125,8 +125,8 @@
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 124
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 125
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 126
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 127
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 128
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 127
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 128
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 129
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 130
 "../../../Engine/Content/BasicShapes/Sphere.ubulk" 131
@@ -165,21 +165,21 @@
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 164
 "../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 165
 "../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 166
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 167
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 168
-"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 169
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 170
-"../../../Engine/Content/EditorResources/S_Terrain.uexp" 171
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 172
-"../../../Engine/Content/EditorResources/EmptyActor.uexp" 173
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 174
-"../../../Engine/Content/EditorResources/BSPVertex.uexp" 175
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 176
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 177
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 178
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 179
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 180
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 181
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 167
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 168
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 169
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 170
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 171
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 172
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 173
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 174
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 175
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 176
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 177
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 178
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 179
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 180
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 181
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 182
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 183
 "../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 184
@@ -365,16 +365,16 @@
 "../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 364
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 365
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 366
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 367
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 368
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 369
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 370
-"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 371
-"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 372
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 373
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 374
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 375
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 376
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 367
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 368
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 370
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 372
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 374
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 375
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 376
 "../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uasset" 377
 "../../../Engine/Plugins/Interchange/Runtime/Content/Materials/UnlitMaterial.uexp" 378
 "../../../Engine/Plugins/Interchange/Runtime/Content/Materials/ThinTranslucentMaterial.uasset" 379
@@ -653,12 +653,12 @@
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 652
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 653
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 654
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 655
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 656
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 657
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 658
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 659
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 660
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 655
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 656
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 657
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 658
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 659
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 660
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 661
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 662
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 663
@@ -749,554 +749,552 @@
 "D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/MasterMix.uexp" 748
 "D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Hold_E_InteractActor.uasset" 749
 "D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Hold_E_InteractActor.uexp" 750
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 751
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 752
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_SpaceBar_InteractActor.uasset" 753
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_SpaceBar_InteractActor.uexp" 754
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 755
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 756
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Container.uasset" 757
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Container.uexp" 758
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Container.uasset" 759
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Container.uexp" 760
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/DesignerSelect/Designer.uasset" 761
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/DesignerSelect/Designer.uexp" 762
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_0.uasset" 763
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_0.uexp" 764
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_1.uasset" 765
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_1.uexp" 766
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_2.uasset" 767
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_2.uexp" 768
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_3.uasset" 769
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_3.uexp" 770
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_4.uasset" 771
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_4.uexp" 772
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/DesignerSelect.uasset" 773
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/DesignerSelect.uexp" 774
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World4Map.uasset" 775
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World4Map.uexp" 776
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4Map_TileSet.uasset" 777
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4Map_TileSet.uexp" 778
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4Map_NoRooms.uasset" 779
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4Map_NoRooms.uexp" 780
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapRender/AnswerMap.uasset" 781
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapRender/AnswerMap.uexp" 782
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4.uasset" 783
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4.uexp" 784
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapCapture.uasset" 785
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapCapture.uexp" 786
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_R_InteractActor.uasset" 787
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_R_InteractActor.uexp" 788
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/ConfirmButton_Base.uasset" 789
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/ConfirmButton_Base.uexp" 790
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_AnswerStruct.uasset" 791
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_AnswerStruct.uexp" 792
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/SpawnLoc.uasset" 793
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/SpawnLoc.uexp" 794
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 795
-"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 796
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/ConfirmButtonFinal.uasset" 797
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/ConfirmButtonFinal.uexp" 798
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ConfirmButtonFinal_Sprite.uasset" 799
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ConfirmButtonFinal_Sprite.uexp" 800
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_ConfirmButton.uasset" 801
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_ConfirmButton.uexp" 802
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/MovementDirections.uasset" 803
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/MovementDirections.uexp" 804
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/LoadingScreen/Loading.uasset" 805
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/LoadingScreen/Loading.uexp" 806
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/LoadingScreen/LoadingScreenWidget.uasset" 807
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/LoadingScreen/LoadingScreenWidget.uexp" 808
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/SaveStates/LevelSave.uasset" 809
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/SaveStates/LevelSave.uexp" 810
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft.uexp" 811
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft.uasset" 812
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft.ufont" 813
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft_Font.uasset" 814
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft_Font.uexp" 815
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/List_entry.uasset" 816
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/List_entry.uexp" 817
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/ControlsMenu.uasset" 818
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/ControlsMenu.uexp" 819
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/SaveStates/InterfaceSettingsSave.uasset" 820
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/SaveStates/InterfaceSettingsSave.uexp" 821
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/EscapeMenu.uasset" 822
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/EscapeMenu.uexp" 823
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Camera/CameraZoomIn.uasset" 824
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Camera/CameraZoomIn.uexp" 825
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Movement.uasset" 826
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Movement.uexp" 827
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/SpaceBar_Interact.uasset" 828
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/SpaceBar_Interact.uexp" 829
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Esc_Menu.uasset" 830
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Esc_Menu.uexp" 831
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Camera/CameraZoomOut.uasset" 832
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Camera/CameraZoomOut.uexp" 833
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/E_Interact.uasset" 834
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/E_Interact.uexp" 835
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/R_Interact.uasset" 836
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/R_Interact.uexp" 837
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/InputMappingContext.uasset" 838
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/InputMappingContext.uexp" 839
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/DogFeedReq.uasset" 840
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/DogFeedReq.uexp" 841
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/DogStatus.uasset" 842
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/DogStatus.uexp" 843
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Containers/AllContainers.uasset" 844
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Containers/AllContainers.uexp" 845
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_0.uasset" 846
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_0.uexp" 847
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_1.uasset" 848
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_1.uexp" 849
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_2.uasset" 850
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_2.uexp" 851
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/AnswerZoneFinal.uasset" 852
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/AnswerZoneFinal.uexp" 853
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/AnswerZoneFinal_Sprite.uasset" 854
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/AnswerZoneFinal_Sprite.uexp" 855
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/AnswerZone.uasset" 856
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/AnswerZone.uexp" 857
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/ContFoodComb/AllCombinations.uasset" 858
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/ContFoodComb/AllCombinations.uexp" 859
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_0.uasset" 860
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_0.uexp" 861
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_2.uasset" 862
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_2.uexp" 863
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_4.uasset" 864
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_4.uexp" 865
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_6.uasset" 866
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_6.uexp" 867
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_7.uasset" 868
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_7.uexp" 869
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_8.uasset" 870
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_8.uexp" 871
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_9.uasset" 872
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_9.uexp" 873
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_10.uasset" 874
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_10.uexp" 875
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_11.uasset" 876
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_11.uexp" 877
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Container.uasset" 878
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Container.uexp" 879
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 880
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uexp" 881
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/SizeOrColor.uasset" 882
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/SizeOrColor.uexp" 883
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/BranchSelComponents.uasset" 884
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/BranchSelComponents.uexp" 885
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Materials/LineMaterial.uasset" 886
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Materials/LineMaterial.uexp" 887
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/BranchSelect/BranchSelect.uasset" 888
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/BranchSelect/BranchSelect.uexp" 889
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/BranchSelect/BranchSelect_Sprite_0.uasset" 890
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/BranchSelect/BranchSelect_Sprite_0.uexp" 891
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/tomato_full.uasset" 892
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/tomato_full.uexp" 893
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/tomato_full_Sprite.uasset" 894
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/tomato_full_Sprite.uexp" 895
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/green_apple_whole.uasset" 896
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/green_apple_whole.uexp" 897
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/green_apple_whole_Sprite.uasset" 898
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/green_apple_whole_Sprite.uexp" 899
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/Cheese_full.uasset" 900
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/Cheese_full.uexp" 901
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/Cheese_full_Sprite.uasset" 902
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/Cheese_full_Sprite.uexp" 903
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/S.uasset" 904
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/S.uexp" 905
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/S_Sprite.uasset" 906
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/S_Sprite.uexp" 907
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/M.uasset" 908
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/M.uexp" 909
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/M_Sprite.uasset" 910
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/M_Sprite.uexp" 911
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/L.uasset" 912
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/L.uexp" 913
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/L_Sprite.uasset" 914
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/L_Sprite.uexp" 915
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/BranchSelect.uasset" 916
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/BranchSelect.uexp" 917
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Food.uasset" 918
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Food.uexp" 919
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/BranchSelect/BranchSelectButton.uasset" 920
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/BranchSelect/BranchSelectButton.uexp" 921
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/BranchSelect/BranchSelectButton_Sprite.uasset" 922
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/BranchSelect/BranchSelectButton_Sprite.uexp" 923
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Sad_Dog_Sprite_Sheet.uasset" 924
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Sad_Dog_Sprite_Sheet.uexp" 925
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Sad_Dog_Sprite_Sheet_Sprite_0.uasset" 926
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Sad_Dog_Sprite_Sheet_Sprite_0.uexp" 927
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Sad_Dog_Sprite_Sheet_Sprite_1.uasset" 928
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Sad_Dog_Sprite_Sheet_Sprite_1.uexp" 929
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Sad_Dog_Sprite_Sheet.uasset" 930
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Sad_Dog_Sprite_Sheet.uexp" 931
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Normal_Dog_Sprite_Sheet.uasset" 932
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Normal_Dog_Sprite_Sheet.uexp" 933
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Normal_Dog_Sprite_Sheet_Sprite_0.uasset" 934
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Normal_Dog_Sprite_Sheet_Sprite_0.uexp" 935
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Normal_Dog_Sprite_Sheet_Sprite_1.uasset" 936
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Normal_Dog_Sprite_Sheet_Sprite_1.uexp" 937
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Normal_Dog_Sprite_Sheet.uasset" 938
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Normal_Dog_Sprite_Sheet.uexp" 939
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Happy_Dog_Sprite_Sheet.uasset" 940
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Happy_Dog_Sprite_Sheet.uexp" 941
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Happy_Dog_Sprite_Sheet_Sprite_0.uasset" 942
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Happy_Dog_Sprite_Sheet_Sprite_0.uexp" 943
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Happy_Dog_Sprite_Sheet_Sprite_1.uasset" 944
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Happy_Dog_Sprite_Sheet_Sprite_1.uexp" 945
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Happy_Dog_Sprite_Sheet.uasset" 946
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Happy_Dog_Sprite_Sheet.uexp" 947
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Sad_Pet_Sprite_Sheet.uasset" 948
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Sad_Pet_Sprite_Sheet.uexp" 949
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Sad_Pet_Sprite_Sheet_Sprite_0.uasset" 950
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Sad_Pet_Sprite_Sheet_Sprite_0.uexp" 951
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Sad_Pet_Sprite_Sheet_Sprite_1.uasset" 952
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Sad_Pet_Sprite_Sheet_Sprite_1.uexp" 953
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Sad_Pet_Sprite_Sheet.uasset" 954
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Sad_Pet_Sprite_Sheet.uexp" 955
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Normal_Pet_Sprite_Sheet.uasset" 956
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Normal_Pet_Sprite_Sheet.uexp" 957
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Normal_Pet_Sprite_Sheet_Sprite_0.uasset" 958
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Normal_Pet_Sprite_Sheet_Sprite_0.uexp" 959
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Normal_Pet_Sprite_Sheet_Sprite_1.uasset" 960
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Normal_Pet_Sprite_Sheet_Sprite_1.uexp" 961
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Normal_Pet_Sprite_Sheet.uasset" 962
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Normal_Pet_Sprite_Sheet.uexp" 963
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Happy_Pet_Sprite_Sheet.uasset" 964
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Happy_Pet_Sprite_Sheet.uexp" 965
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Happy_Pet_Sprite_Sheet_Sprite_0.uasset" 966
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Happy_Pet_Sprite_Sheet_Sprite_0.uexp" 967
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Happy_Pet_Sprite_Sheet_Sprite_1.uasset" 968
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Happy_Pet_Sprite_Sheet_Sprite_1.uexp" 969
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Happy_Pet_Sprite_Sheet.uasset" 970
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Happy_Pet_Sprite_Sheet.uexp" 971
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Sad_Dog_Sprite_Sheet2.uasset" 972
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Sad_Dog_Sprite_Sheet2.uexp" 973
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Sad_Dog_Sprite_Sheet2_Sprite_0.uasset" 974
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Sad_Dog_Sprite_Sheet2_Sprite_0.uexp" 975
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Sad_Dog_Sprite_Sheet2_Sprite_1.uasset" 976
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Sad_Dog_Sprite_Sheet2_Sprite_1.uexp" 977
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Sad_Dog_Sprite_Sheet2.uasset" 978
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Sad_Dog_Sprite_Sheet2.uexp" 979
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Normal_Dog_Sprite2.uasset" 980
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Normal_Dog_Sprite2.uexp" 981
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Normal_Dog_Sprite2_Sprite_0.uasset" 982
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Normal_Dog_Sprite2_Sprite_0.uexp" 983
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Normal_Dog_Sprite2_Sprite_1.uasset" 984
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Normal_Dog_Sprite2_Sprite_1.uexp" 985
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Normal_Dog_Sprite2.uasset" 986
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Normal_Dog_Sprite2.uexp" 987
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Happy_Dog_Sprite_Sheet2.uasset" 988
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Happy_Dog_Sprite_Sheet2.uexp" 989
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Happy_Dog_Sprite_Sheet2_Sprite_0.uasset" 990
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Happy_Dog_Sprite_Sheet2_Sprite_0.uexp" 991
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Happy_Dog_Sprite_Sheet2_Sprite_1.uasset" 992
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Happy_Dog_Sprite_Sheet2_Sprite_1.uexp" 993
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Happy_Dog_Sprite_Sheet2.uasset" 994
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Happy_Dog_Sprite_Sheet2.uexp" 995
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Sad_Pet_Sprite_Sheet2.uasset" 996
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Sad_Pet_Sprite_Sheet2.uexp" 997
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Sad_Pet_Sprite_Sheet2_Sprite_0.uasset" 998
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Sad_Pet_Sprite_Sheet2_Sprite_0.uexp" 999
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Sad_Pet_Sprite_Sheet2_Sprite_1.uasset" 1000
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Sad_Pet_Sprite_Sheet2_Sprite_1.uexp" 1001
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Sad_Pet_Sprite_Sheet2.uasset" 1002
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Sad_Pet_Sprite_Sheet2.uexp" 1003
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Normal_Pet_Sprite_Sheet2.uasset" 1004
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Normal_Pet_Sprite_Sheet2.uexp" 1005
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Normal_Pet_Sprite_Sheet2_Sprite_0.uasset" 1006
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Normal_Pet_Sprite_Sheet2_Sprite_0.uexp" 1007
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Normal_Pet_Sprite_Sheet2_Sprite_1.uasset" 1008
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Normal_Pet_Sprite_Sheet2_Sprite_1.uexp" 1009
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Normal_Pet_Sprite_Sheet2.uasset" 1010
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Normal_Pet_Sprite_Sheet2.uexp" 1011
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Happy_Pet_Sprite_Sheet2.uasset" 1012
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Happy_Pet_Sprite_Sheet2.uexp" 1013
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Happy_Pet_Sprite_Sheet2_Sprite_0.uasset" 1014
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Happy_Pet_Sprite_Sheet2_Sprite_0.uexp" 1015
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Happy_Pet_Sprite_Sheet2_Sprite_1.uasset" 1016
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Happy_Pet_Sprite_Sheet2_Sprite_1.uexp" 1017
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Happy_Pet_Sprite_Sheet2.uasset" 1018
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Happy_Pet_Sprite_Sheet2.uexp" 1019
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/Dog.uasset" 1020
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/Dog.uexp" 1021
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/UIText.uasset" 1022
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/UIText.uexp" 1023
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/WorldENUM.uasset" 1024
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/WorldENUM.uexp" 1025
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Boss_dialog.uasset" 1026
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Boss_dialog.uexp" 1027
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Boss/Boss_dialog_Sprite_2.uasset" 1028
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Boss/Boss_dialog_Sprite_2.uexp" 1029
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/DialogueBot.uasset" 1030
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/DialogueBot.uexp" 1031
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/ActorTypes.uasset" 1032
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/ActorTypes.uexp" 1033
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/CorrectAns.ubulk" 1034
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/CorrectAns.uasset" 1035
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/CorrectAns.uexp" 1036
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/AnsCorrect.uasset" 1037
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/AnsCorrect.uexp" 1038
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/item_pickup.ubulk" 1039
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/item_pickup.uasset" 1040
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/item_pickup.uexp" 1041
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/ItemPickup.uasset" 1042
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/ItemPickup.uexp" 1043
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/WrongAns.ubulk" 1044
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/WrongAns.uasset" 1045
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/WrongAns.uexp" 1046
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/AnsWrong.uasset" 1047
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/AnsWrong.uexp" 1048
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Rest_frame_2.uasset" 1049
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Rest_frame_2.uexp" 1050
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Rest_frame_2_Sprite.uasset" 1051
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Rest_frame_2_Sprite.uexp" 1052
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Rest_frame_1.uasset" 1053
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Rest_frame_1.uexp" 1054
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Rest_frame_1_Sprite.uasset" 1055
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Rest_frame_1_Sprite.uexp" 1056
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1-rest.uasset" 1057
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1-rest.uexp" 1058
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Rest_frame_2.uasset" 1059
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Rest_frame_2.uexp" 1060
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Rest_frame_2_Sprite.uasset" 1061
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Rest_frame_2_Sprite.uexp" 1062
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Rest_frame_1.uasset" 1063
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Rest_frame_1.uexp" 1064
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Rest_frame_1_Sprite.uasset" 1065
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Rest_frame_1_Sprite.uexp" 1066
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_rest.uasset" 1067
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_rest.uexp" 1068
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_right_frame_3.uasset" 1069
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_right_frame_3.uexp" 1070
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_right_frame_3_Sprite.uasset" 1071
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_right_frame_3_Sprite.uexp" 1072
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_right_frame_2.uasset" 1073
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_right_frame_2.uexp" 1074
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_right_frame_2_Sprite.uasset" 1075
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_right_frame_2_Sprite.uexp" 1076
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_right.uasset" 1077
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_right.uexp" 1078
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_3.uasset" 1079
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_3.uexp" 1080
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_frame_3_Sprite.uasset" 1081
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_frame_3_Sprite.uexp" 1082
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_2.uasset" 1083
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_2.uexp" 1084
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_frame_2_Sprite.uasset" 1085
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_frame_2_Sprite.uexp" 1086
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_left.uasset" 1087
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_left.uexp" 1088
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_front_frame_2.uasset" 1089
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_front_frame_2.uexp" 1090
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_front_frame_2_Sprite.uasset" 1091
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_front_frame_2_Sprite.uexp" 1092
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_front_frame_1.uasset" 1093
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_front_frame_1.uexp" 1094
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_front_frame_1_Sprite.uasset" 1095
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_front_frame_1_Sprite.uexp" 1096
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_front.uasset" 1097
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_front.uexp" 1098
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_2.uasset" 1099
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_2.uexp" 1100
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_frame_2_Sprite.uasset" 1101
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_frame_2_Sprite.uexp" 1102
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_1.uasset" 1103
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_1.uexp" 1104
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_frame_1_Sprite.uasset" 1105
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_frame_1_Sprite.uexp" 1106
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_back.uasset" 1107
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_back.uexp" 1108
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_1.uasset" 1109
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_1.uexp" 1110
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_rest.uasset" 1111
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_rest.uexp" 1112
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_lrest.uasset" 1113
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_lrest.uexp" 1114
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_0.uasset" 1115
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_0.uexp" 1116
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_rest.uasset" 1117
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_rest.uexp" 1118
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_brest.uasset" 1119
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_brest.uexp" 1120
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P1_right_frame_3.uasset" 1121
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P1_right_frame_3.uexp" 1122
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P1_right_frame_3_Sprite.uasset" 1123
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P1_right_frame_3_Sprite.uexp" 1124
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P1_right_frame_2.uasset" 1125
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P1_right_frame_2.uexp" 1126
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P1_right_frame_2_Sprite.uasset" 1127
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P1_right_frame_2_Sprite.uexp" 1128
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_right.uasset" 1129
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_right.uexp" 1130
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_3.uasset" 1131
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_3.uexp" 1132
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_3_Sprite.uasset" 1133
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_3_Sprite.uexp" 1134
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_2.uasset" 1135
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_2.uexp" 1136
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_2_Sprite.uasset" 1137
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_2_Sprite.uexp" 1138
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_left.uasset" 1139
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_left.uexp" 1140
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_front_frame_3.uasset" 1141
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_front_frame_3.uexp" 1142
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_front_frame_3_Sprite.uasset" 1143
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_front_frame_3_Sprite.uexp" 1144
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_front_frame_2.uasset" 1145
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_front_frame_2.uexp" 1146
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_front_frame_2_Sprite.uasset" 1147
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_front_frame_2_Sprite.uexp" 1148
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_front.uasset" 1149
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_front.uexp" 1150
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_3.uasset" 1151
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_3.uexp" 1152
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_3_Sprite.uasset" 1153
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_3_Sprite.uexp" 1154
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_2.uasset" 1155
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_2.uexp" 1156
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_2_Sprite.uasset" 1157
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_2_Sprite.uexp" 1158
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_back.uasset" 1159
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_back.uexp" 1160
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_1.uasset" 1161
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_1.uexp" 1162
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_1_Sprite.uasset" 1163
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_1_Sprite.uexp" 1164
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_lrest.uasset" 1165
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_lrest.uexp" 1166
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_1.uasset" 1167
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_1.uexp" 1168
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_1_Sprite.uasset" 1169
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_1_Sprite.uexp" 1170
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_brest.uasset" 1171
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_brest.uexp" 1172
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/NewCharacter.uasset" 1173
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/NewCharacter.uexp" 1174
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_E_InteractActor.uasset" 1175
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_E_InteractActor.uexp" 1176
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_ConfirmButton.uasset" 1177
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_ConfirmButton.uexp" 1178
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_02_Regular_Loop.ubulk" 1179
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_02_Regular_Loop.uasset" 1180
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_02_Regular_Loop.uexp" 1181
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_03_Regular_Loop.ubulk" 1182
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_03_Regular_Loop.uasset" 1183
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_03_Regular_Loop.uexp" 1184
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_05_Regular_Loop.ubulk" 1185
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_05_Regular_Loop.uasset" 1186
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_05_Regular_Loop.uexp" 1187
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_04_Regular_Loop.ubulk" 1188
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_04_Regular_Loop.uasset" 1189
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_04_Regular_Loop.uexp" 1190
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/Playlist.uasset" 1191
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/Playlist.uexp" 1192
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World1Map.uasset" 1193
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World1Map.uexp" 1194
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1Map_TileSet.uasset" 1195
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1Map_TileSet.uexp" 1196
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1Map.uasset" 1197
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1Map.uexp" 1198
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1.uasset" 1199
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1.uexp" 1200
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/LevelGameMode.uasset" 1201
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/LevelGameMode.uexp" 1202
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage3.uexp" 1203
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage3.umap" 1204
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage2.uexp" 1205
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage2.umap" 1206
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage1.uexp" 1207
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage1.umap" 1208
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/MainMenuGameMode.uasset" 1209
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/MainMenuGameMode.uexp" 1210
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/TitleScreen.uasset" 1211
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/TitleScreen.uexp" 1212
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Sessions.uasset" 1213
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Sessions.uexp" 1214
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Join.uasset" 1215
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Join.uexp" 1216
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/JoinOrCreate.uasset" 1217
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/JoinOrCreate.uexp" 1218
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/main--menu__1_.ubulk" 1219
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/main--menu__1_.uasset" 1220
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/main--menu__1_.uexp" 1221
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/Main_menu_music.uasset" 1222
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/Main_menu_music.uexp" 1223
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/MainMenu.uexp" 1224
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/MainMenu.umap" 1225
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/LobbyClientWaiting.uasset" 1226
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/LobbyClientWaiting.uexp" 1227
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Create.uasset" 1228
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Create.uexp" 1229
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/Lobby.uexp" 1230
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/Lobby.umap" 1231
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapRender/AnswerMapMaterial.uasset" 1232
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapRender/AnswerMapMaterial.uexp" 1233
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/W4/W4_AnswerMiniMap.uasset" 1234
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/W4/W4_AnswerMiniMap.uexp" 1235
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/W4/GetBluePrint.uasset" 1236
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/W4/GetBluePrint.uexp" 1237
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage5.uexp" 1238
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage5.umap" 1239
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage4.uexp" 1240
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage4.umap" 1241
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage3.uexp" 1242
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage3.umap" 1243
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage2.uexp" 1244
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage2.umap" 1245
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage1.uexp" 1246
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage1.umap" 1247
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_ProceduralGeneration.uexp" 1248
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_ProceduralGeneration.umap" 1249
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/FoodTypes.uasset" 1250
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/FoodTypes.uexp" 1251
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/NumPad.uasset" 1252
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/NumPad.uexp" 1253
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/BooleanOperations.uasset" 1254
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/BooleanOperations.uexp" 1255
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/VisualNumPad.uasset" 1256
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/VisualNumPad.uexp" 1257
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/Or_machine.uasset" 1258
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/Or_machine.uexp" 1259
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/Or_machine_Sprite.uasset" 1260
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/Or_machine_Sprite.uexp" 1261
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/Notmachine.uasset" 1262
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/Notmachine.uexp" 1263
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/Notmachine_Sprite.uasset" 1264
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/Notmachine_Sprite.uexp" 1265
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/And_machine.uasset" 1266
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/And_machine.uexp" 1267
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/And_machine_Sprite.uasset" 1268
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/And_machine_Sprite.uexp" 1269
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/Operators.uasset" 1270
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/Operators.uexp" 1271
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_ConfirmButton.uasset" 1272
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_ConfirmButton.uexp" 1273
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage3.uexp" 1274
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage3.umap" 1275
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage2.uexp" 1276
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage2.umap" 1277
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage1.uexp" 1278
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage1.umap" 1279
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_ProceduralGeneration.uexp" 1280
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_ProceduralGeneration.umap" 1281
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World2Map.uasset" 1282
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World2Map.uexp" 1283
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2Map_TileSet.uasset" 1284
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2Map_TileSet.uexp" 1285
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2Map.uasset" 1286
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2Map.uexp" 1287
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2.uasset" 1288
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2.uexp" 1289
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_ConfirmButton.uasset" 1290
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_ConfirmButton.uexp" 1291
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage4.uexp" 1292
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage4.umap" 1293
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage3.uexp" 1294
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage3.umap" 1295
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage2.uexp" 1296
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage2.umap" 1297
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage1.uexp" 1298
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage1.umap" 1299
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_ProceduralGeneration.uexp" 1300
-"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_ProceduralGeneration.umap" 1301
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/MovementDirections.uasset" 751
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/MovementDirections.uexp" 752
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/LoadingScreen/Loading.uasset" 753
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/LoadingScreen/Loading.uexp" 754
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/LoadingScreen/LoadingScreenWidget.uasset" 755
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/LoadingScreen/LoadingScreenWidget.uexp" 756
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_R_InteractActor.uasset" 757
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_R_InteractActor.uexp" 758
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/ConfirmButton_Base.uasset" 759
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/ConfirmButton_Base.uexp" 760
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/SaveStates/LevelSave.uasset" 761
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/SaveStates/LevelSave.uexp" 762
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft.uexp" 763
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft.uasset" 764
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft.ufont" 765
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft_Font.uasset" 766
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Minecraft_Font.uexp" 767
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/List_entry.uasset" 768
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/List_entry.uexp" 769
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/ControlsMenu.uasset" 770
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/ControlsMenu.uexp" 771
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/SaveStates/InterfaceSettingsSave.uasset" 772
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/SaveStates/InterfaceSettingsSave.uexp" 773
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/EscapeMenu.uasset" 774
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/EscapeMenu.uexp" 775
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Camera/CameraZoomIn.uasset" 776
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Camera/CameraZoomIn.uexp" 777
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_SpaceBar_InteractActor.uasset" 778
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_SpaceBar_InteractActor.uexp" 779
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Movement.uasset" 780
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Movement.uexp" 781
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/SpaceBar_Interact.uasset" 782
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/SpaceBar_Interact.uexp" 783
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Esc_Menu.uasset" 784
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Esc_Menu.uexp" 785
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Camera/CameraZoomOut.uasset" 786
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/Camera/CameraZoomOut.uexp" 787
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/E_Interact.uasset" 788
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/E_Interact.uexp" 789
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/R_Interact.uasset" 790
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/R_Interact.uexp" 791
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/InputMappingContext.uasset" 792
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/KeyMapping/InputMappingContext.uexp" 793
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/CorrectAns.ubulk" 794
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/CorrectAns.uasset" 795
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/CorrectAns.uexp" 796
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/AnsCorrect.uasset" 797
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/AnsCorrect.uexp" 798
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/item_pickup.ubulk" 799
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/item_pickup.uasset" 800
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/item_pickup.uexp" 801
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/ItemPickup.uasset" 802
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/ItemPickup.uexp" 803
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/WrongAns.ubulk" 804
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/WrongAns.uasset" 805
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/WrongAns.uexp" 806
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/AnsWrong.uasset" 807
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/FX/AnsWrong.uexp" 808
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Rest_frame_2.uasset" 809
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Rest_frame_2.uexp" 810
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Rest_frame_2_Sprite.uasset" 811
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Rest_frame_2_Sprite.uexp" 812
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Rest_frame_1.uasset" 813
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Rest_frame_1.uexp" 814
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Rest_frame_1_Sprite.uasset" 815
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Rest_frame_1_Sprite.uexp" 816
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1-rest.uasset" 817
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1-rest.uexp" 818
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 819
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 820
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 821
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uexp" 822
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Rest_frame_2.uasset" 823
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Rest_frame_2.uexp" 824
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Rest_frame_2_Sprite.uasset" 825
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Rest_frame_2_Sprite.uexp" 826
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Rest_frame_1.uasset" 827
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Rest_frame_1.uexp" 828
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Rest_frame_1_Sprite.uasset" 829
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Rest_frame_1_Sprite.uexp" 830
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_rest.uasset" 831
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_rest.uexp" 832
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_right_frame_3.uasset" 833
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_right_frame_3.uexp" 834
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_right_frame_3_Sprite.uasset" 835
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_right_frame_3_Sprite.uexp" 836
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_right_frame_2.uasset" 837
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_right_frame_2.uexp" 838
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_right_frame_2_Sprite.uasset" 839
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_right_frame_2_Sprite.uexp" 840
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_right.uasset" 841
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_right.uexp" 842
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_3.uasset" 843
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_3.uexp" 844
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_frame_3_Sprite.uasset" 845
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_frame_3_Sprite.uexp" 846
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_2.uasset" 847
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_2.uexp" 848
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_frame_2_Sprite.uasset" 849
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_frame_2_Sprite.uexp" 850
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_left.uasset" 851
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_left.uexp" 852
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_front_frame_2.uasset" 853
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_front_frame_2.uexp" 854
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_front_frame_2_Sprite.uasset" 855
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_front_frame_2_Sprite.uexp" 856
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_front_frame_1.uasset" 857
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_front_frame_1.uexp" 858
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_front_frame_1_Sprite.uasset" 859
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_front_frame_1_Sprite.uexp" 860
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_front.uasset" 861
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_front.uexp" 862
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_2.uasset" 863
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_2.uexp" 864
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_frame_2_Sprite.uasset" 865
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_frame_2_Sprite.uexp" 866
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_1.uasset" 867
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_1.uexp" 868
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_frame_1_Sprite.uasset" 869
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_frame_1_Sprite.uexp" 870
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_back.uasset" 871
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_walk_back.uexp" 872
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_1.uasset" 873
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_Left_frame_1.uexp" 874
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_rest.uasset" 875
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_Left_rest.uexp" 876
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_lrest.uasset" 877
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_lrest.uexp" 878
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_0.uasset" 879
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P1/P1_back_frame_0.uexp" 880
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_rest.uasset" 881
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/P1_back_rest.uexp" 882
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_brest.uasset" 883
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P1/Flipbooks/P1_brest.uexp" 884
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P1_right_frame_3.uasset" 885
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P1_right_frame_3.uexp" 886
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P1_right_frame_3_Sprite.uasset" 887
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P1_right_frame_3_Sprite.uexp" 888
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P1_right_frame_2.uasset" 889
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P1_right_frame_2.uexp" 890
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P1_right_frame_2_Sprite.uasset" 891
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P1_right_frame_2_Sprite.uexp" 892
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_right.uasset" 893
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_right.uexp" 894
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_3.uasset" 895
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_3.uexp" 896
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_3_Sprite.uasset" 897
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_3_Sprite.uexp" 898
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_2.uasset" 899
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_2.uexp" 900
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_2_Sprite.uasset" 901
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_2_Sprite.uexp" 902
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_left.uasset" 903
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_left.uexp" 904
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_front_frame_3.uasset" 905
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_front_frame_3.uexp" 906
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_front_frame_3_Sprite.uasset" 907
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_front_frame_3_Sprite.uexp" 908
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_front_frame_2.uasset" 909
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_front_frame_2.uexp" 910
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_front_frame_2_Sprite.uasset" 911
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_front_frame_2_Sprite.uexp" 912
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_front.uasset" 913
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_front.uexp" 914
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_3.uasset" 915
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_3.uexp" 916
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_3_Sprite.uasset" 917
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_3_Sprite.uexp" 918
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_2.uasset" 919
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_2.uexp" 920
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_2_Sprite.uasset" 921
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_2_Sprite.uexp" 922
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_back.uasset" 923
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_walk_back.uexp" 924
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_1.uasset" 925
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_Left_frame_1.uexp" 926
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_1_Sprite.uasset" 927
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_Left_frame_1_Sprite.uexp" 928
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_lrest.uasset" 929
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_lrest.uexp" 930
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_1.uasset" 931
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Player/P2/P2_back_frame_1.uexp" 932
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_1_Sprite.uasset" 933
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/P2_back_frame_1_Sprite.uexp" 934
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_brest.uasset" 935
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Player/P2/Flipbooks/P2_brest.uexp" 936
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/NewCharacter.uasset" 937
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/NewCharacter.uexp" 938
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_E_InteractActor.uasset" 939
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/ParentClasses/Tap_E_InteractActor.uexp" 940
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Containers/AllContainers.uasset" 941
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Containers/AllContainers.uexp" 942
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_0.uasset" 943
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_0.uexp" 944
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_1.uasset" 945
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_1.uexp" 946
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_2.uasset" 947
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Containers/AllContainers_Sprite_2.uexp" 948
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/AnswerZoneFinal.uasset" 949
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/AnswerZoneFinal.uexp" 950
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/AnswerZoneFinal_Sprite.uasset" 951
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/AnswerZoneFinal_Sprite.uexp" 952
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/AnswerZone.uasset" 953
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/AnswerZone.uexp" 954
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/ContFoodComb/AllCombinations.uasset" 955
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/ContFoodComb/AllCombinations.uexp" 956
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_0.uasset" 957
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_0.uexp" 958
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_2.uasset" 959
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_2.uexp" 960
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_4.uasset" 961
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_4.uexp" 962
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_6.uasset" 963
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_6.uexp" 964
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_7.uasset" 965
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_7.uexp" 966
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_8.uasset" 967
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_8.uexp" 968
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_9.uasset" 969
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_9.uexp" 970
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_10.uasset" 971
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_10.uexp" 972
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_11.uasset" 973
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ContFoodComb/AllCombinations_Sprite_11.uexp" 974
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/DogFeedReq.uasset" 975
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/DogFeedReq.uexp" 976
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/DogStatus.uasset" 977
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/DogStatus.uexp" 978
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/BranchSelect/BranchSelectButton.uasset" 979
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/BranchSelect/BranchSelectButton.uexp" 980
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/BranchSelect/BranchSelectButton_Sprite.uasset" 981
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/BranchSelect/BranchSelectButton_Sprite.uexp" 982
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Sad_Dog_Sprite_Sheet.uasset" 983
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Sad_Dog_Sprite_Sheet.uexp" 984
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Sad_Dog_Sprite_Sheet_Sprite_0.uasset" 985
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Sad_Dog_Sprite_Sheet_Sprite_0.uexp" 986
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Sad_Dog_Sprite_Sheet_Sprite_1.uasset" 987
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Sad_Dog_Sprite_Sheet_Sprite_1.uexp" 988
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Sad_Dog_Sprite_Sheet.uasset" 989
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Sad_Dog_Sprite_Sheet.uexp" 990
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Normal_Dog_Sprite_Sheet.uasset" 991
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Normal_Dog_Sprite_Sheet.uexp" 992
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Normal_Dog_Sprite_Sheet_Sprite_0.uasset" 993
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Normal_Dog_Sprite_Sheet_Sprite_0.uexp" 994
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Normal_Dog_Sprite_Sheet_Sprite_1.uasset" 995
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Normal_Dog_Sprite_Sheet_Sprite_1.uexp" 996
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Normal_Dog_Sprite_Sheet.uasset" 997
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Normal_Dog_Sprite_Sheet.uexp" 998
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Happy_Dog_Sprite_Sheet.uasset" 999
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog1/Happy_Dog_Sprite_Sheet.uexp" 1000
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Happy_Dog_Sprite_Sheet_Sprite_0.uasset" 1001
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Happy_Dog_Sprite_Sheet_Sprite_0.uexp" 1002
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Happy_Dog_Sprite_Sheet_Sprite_1.uasset" 1003
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Happy_Dog_Sprite_Sheet_Sprite_1.uexp" 1004
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Happy_Dog_Sprite_Sheet.uasset" 1005
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog1/Flipbooks/Happy_Dog_Sprite_Sheet.uexp" 1006
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Sad_Dog_Sprite_Sheet2.uasset" 1007
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Sad_Dog_Sprite_Sheet2.uexp" 1008
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Sad_Dog_Sprite_Sheet2_Sprite_0.uasset" 1009
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Sad_Dog_Sprite_Sheet2_Sprite_0.uexp" 1010
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Sad_Dog_Sprite_Sheet2_Sprite_1.uasset" 1011
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Sad_Dog_Sprite_Sheet2_Sprite_1.uexp" 1012
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Sad_Dog_Sprite_Sheet2.uasset" 1013
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Sad_Dog_Sprite_Sheet2.uexp" 1014
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Normal_Dog_Sprite2.uasset" 1015
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Normal_Dog_Sprite2.uexp" 1016
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Normal_Dog_Sprite2_Sprite_0.uasset" 1017
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Normal_Dog_Sprite2_Sprite_0.uexp" 1018
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Normal_Dog_Sprite2_Sprite_1.uasset" 1019
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Normal_Dog_Sprite2_Sprite_1.uexp" 1020
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Normal_Dog_Sprite2.uasset" 1021
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Normal_Dog_Sprite2.uexp" 1022
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Happy_Dog_Sprite_Sheet2.uasset" 1023
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog2/Happy_Dog_Sprite_Sheet2.uexp" 1024
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Happy_Dog_Sprite_Sheet2_Sprite_0.uasset" 1025
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Happy_Dog_Sprite_Sheet2_Sprite_0.uexp" 1026
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Happy_Dog_Sprite_Sheet2_Sprite_1.uasset" 1027
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Happy_Dog_Sprite_Sheet2_Sprite_1.uexp" 1028
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Happy_Dog_Sprite_Sheet2.uasset" 1029
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog2/Flipbooks/Happy_Dog_Sprite_Sheet2.uexp" 1030
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Sad_Pet_Sprite_Sheet.uasset" 1031
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Sad_Pet_Sprite_Sheet.uexp" 1032
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Sad_Pet_Sprite_Sheet_Sprite_0.uasset" 1033
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Sad_Pet_Sprite_Sheet_Sprite_0.uexp" 1034
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Sad_Pet_Sprite_Sheet_Sprite_1.uasset" 1035
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Sad_Pet_Sprite_Sheet_Sprite_1.uexp" 1036
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Sad_Pet_Sprite_Sheet.uasset" 1037
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Sad_Pet_Sprite_Sheet.uexp" 1038
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Normal_Pet_Sprite_Sheet.uasset" 1039
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Normal_Pet_Sprite_Sheet.uexp" 1040
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Normal_Pet_Sprite_Sheet_Sprite_0.uasset" 1041
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Normal_Pet_Sprite_Sheet_Sprite_0.uexp" 1042
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Normal_Pet_Sprite_Sheet_Sprite_1.uasset" 1043
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Normal_Pet_Sprite_Sheet_Sprite_1.uexp" 1044
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Normal_Pet_Sprite_Sheet.uasset" 1045
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Normal_Pet_Sprite_Sheet.uexp" 1046
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Happy_Pet_Sprite_Sheet.uasset" 1047
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog3/Happy_Pet_Sprite_Sheet.uexp" 1048
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Happy_Pet_Sprite_Sheet_Sprite_0.uasset" 1049
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Happy_Pet_Sprite_Sheet_Sprite_0.uexp" 1050
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Happy_Pet_Sprite_Sheet_Sprite_1.uasset" 1051
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Happy_Pet_Sprite_Sheet_Sprite_1.uexp" 1052
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Happy_Pet_Sprite_Sheet.uasset" 1053
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog3/Flipbooks/Happy_Pet_Sprite_Sheet.uexp" 1054
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Sad_Pet_Sprite_Sheet2.uasset" 1055
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Sad_Pet_Sprite_Sheet2.uexp" 1056
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Sad_Pet_Sprite_Sheet2_Sprite_0.uasset" 1057
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Sad_Pet_Sprite_Sheet2_Sprite_0.uexp" 1058
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Sad_Pet_Sprite_Sheet2_Sprite_1.uasset" 1059
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Sad_Pet_Sprite_Sheet2_Sprite_1.uexp" 1060
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Sad_Pet_Sprite_Sheet2.uasset" 1061
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Sad_Pet_Sprite_Sheet2.uexp" 1062
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Normal_Pet_Sprite_Sheet2.uasset" 1063
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Normal_Pet_Sprite_Sheet2.uexp" 1064
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Normal_Pet_Sprite_Sheet2_Sprite_0.uasset" 1065
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Normal_Pet_Sprite_Sheet2_Sprite_0.uexp" 1066
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Normal_Pet_Sprite_Sheet2_Sprite_1.uasset" 1067
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Normal_Pet_Sprite_Sheet2_Sprite_1.uexp" 1068
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Normal_Pet_Sprite_Sheet2.uasset" 1069
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Normal_Pet_Sprite_Sheet2.uexp" 1070
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Happy_Pet_Sprite_Sheet2.uasset" 1071
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Dog/Dog4/Happy_Pet_Sprite_Sheet2.uexp" 1072
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Happy_Pet_Sprite_Sheet2_Sprite_0.uasset" 1073
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Happy_Pet_Sprite_Sheet2_Sprite_0.uexp" 1074
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Happy_Pet_Sprite_Sheet2_Sprite_1.uasset" 1075
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Happy_Pet_Sprite_Sheet2_Sprite_1.uexp" 1076
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Happy_Pet_Sprite_Sheet2.uasset" 1077
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Dog/Dog4/Flipbooks/Happy_Pet_Sprite_Sheet2.uexp" 1078
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1079
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 1080
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/tomato_full.uasset" 1081
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/tomato_full.uexp" 1082
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/tomato_full_Sprite.uasset" 1083
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/tomato_full_Sprite.uexp" 1084
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/green_apple_whole.uasset" 1085
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/green_apple_whole.uexp" 1086
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/green_apple_whole_Sprite.uasset" 1087
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/green_apple_whole_Sprite.uexp" 1088
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/Cheese_full.uasset" 1089
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Food/Cheese_full.uexp" 1090
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/Cheese_full_Sprite.uasset" 1091
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Food/Cheese_full_Sprite.uexp" 1092
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/S.uasset" 1093
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/S.uexp" 1094
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/S_Sprite.uasset" 1095
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/S_Sprite.uexp" 1096
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/M.uasset" 1097
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/M.uexp" 1098
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/M_Sprite.uasset" 1099
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/M_Sprite.uexp" 1100
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/L.uasset" 1101
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/SML/L.uexp" 1102
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/L_Sprite.uasset" 1103
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/SML/L_Sprite.uexp" 1104
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/Dog.uasset" 1105
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/Dog.uexp" 1106
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/SizeOrColor.uasset" 1107
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/SizeOrColor.uexp" 1108
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/BranchSelComponents.uasset" 1109
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/BranchSelComponents.uexp" 1110
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Materials/LineMaterial.uasset" 1111
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Materials/LineMaterial.uexp" 1112
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/BranchSelect/BranchSelect.uasset" 1113
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/BranchSelect/BranchSelect.uexp" 1114
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/BranchSelect/BranchSelect_Sprite_0.uasset" 1115
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/BranchSelect/BranchSelect_Sprite_0.uexp" 1116
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/BranchSelect.uasset" 1117
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/BranchSelect.uexp" 1118
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Food.uasset" 1119
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Food.uexp" 1120
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Container.uasset" 1121
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Container.uexp" 1122
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/ConfirmButtonFinal.uasset" 1123
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/ConfirmButtonFinal.uexp" 1124
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ConfirmButtonFinal_Sprite.uasset" 1125
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/ConfirmButtonFinal_Sprite.uexp" 1126
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_ConfirmButton.uasset" 1127
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_ConfirmButton.uexp" 1128
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_02_Regular_Loop.ubulk" 1129
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_02_Regular_Loop.uasset" 1130
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_02_Regular_Loop.uexp" 1131
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_03_Regular_Loop.ubulk" 1132
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_03_Regular_Loop.uasset" 1133
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_03_Regular_Loop.uexp" 1134
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_05_Regular_Loop.ubulk" 1135
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_05_Regular_Loop.uasset" 1136
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_05_Regular_Loop.uexp" 1137
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_04_Regular_Loop.ubulk" 1138
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_04_Regular_Loop.uasset" 1139
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/BG/Puzzle_04_Regular_Loop.uexp" 1140
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/Playlist.uasset" 1141
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/Playlist.uexp" 1142
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World1Map.uasset" 1143
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World1Map.uexp" 1144
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1Map_TileSet.uasset" 1145
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1Map_TileSet.uexp" 1146
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1Map.uasset" 1147
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1Map.uexp" 1148
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1.uasset" 1149
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World1.uexp" 1150
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/SpawnLoc.uasset" 1151
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/SpawnLoc.uexp" 1152
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/LevelGameMode.uasset" 1153
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/LevelGameMode.uexp" 1154
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage3.uexp" 1155
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage3.umap" 1156
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage2.uexp" 1157
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage2.umap" 1158
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/UIText.uasset" 1159
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/UIText.uexp" 1160
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/WorldENUM.uasset" 1161
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/Enums/WorldENUM.uexp" 1162
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Boss_dialog.uasset" 1163
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Boss_dialog.uexp" 1164
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Boss/Boss_dialog_Sprite_2.uasset" 1165
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Boss/Boss_dialog_Sprite_2.uexp" 1166
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/DialogueBot.uasset" 1167
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/BluePrints/DialogueBot.uexp" 1168
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage1.uexp" 1169
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World1/W1_Stage1.umap" 1170
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World2Map.uasset" 1171
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World2Map.uexp" 1172
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2Map_TileSet.uasset" 1173
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2Map_TileSet.uexp" 1174
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2Map.uasset" 1175
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2Map.uexp" 1176
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2.uasset" 1177
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World2.uexp" 1178
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_ConfirmButton.uasset" 1179
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_ConfirmButton.uexp" 1180
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage4.uexp" 1181
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage4.umap" 1182
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage3.uexp" 1183
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage3.umap" 1184
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage2.uexp" 1185
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage2.umap" 1186
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage1.uexp" 1187
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_Stage1.umap" 1188
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_ProceduralGeneration.uexp" 1189
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World2/W2_ProceduralGeneration.umap" 1190
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1191
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 1192
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Container.uasset" 1193
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Container.uexp" 1194
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Container.uasset" 1195
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Container.uexp" 1196
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/DesignerSelect/Designer.uasset" 1197
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/DesignerSelect/Designer.uexp" 1198
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_0.uasset" 1199
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_0.uexp" 1200
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_1.uasset" 1201
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_1.uexp" 1202
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_2.uasset" 1203
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_2.uexp" 1204
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_3.uasset" 1205
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_3.uexp" 1206
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_4.uasset" 1207
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/DesignerSelect/Designer_Sprite_4.uexp" 1208
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/DesignerSelect.uasset" 1209
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/DesignerSelect.uexp" 1210
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World4Map.uasset" 1211
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Maps/World4Map.uexp" 1212
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4Map_TileSet.uasset" 1213
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4Map_TileSet.uexp" 1214
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4Map_NoRooms.uasset" 1215
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4Map_NoRooms.uexp" 1216
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapRender/AnswerMap.uasset" 1217
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapRender/AnswerMap.uexp" 1218
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4.uasset" 1219
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Maps/World4.uexp" 1220
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapCapture.uasset" 1221
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapCapture.uexp" 1222
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_AnswerStruct.uasset" 1223
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_AnswerStruct.uexp" 1224
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_ConfirmButton.uasset" 1225
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_ConfirmButton.uexp" 1226
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapRender/AnswerMapMaterial.uasset" 1227
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/MapRender/AnswerMapMaterial.uexp" 1228
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/W4/W4_AnswerMiniMap.uasset" 1229
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/W4/W4_AnswerMiniMap.uexp" 1230
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/W4/GetBluePrint.uasset" 1231
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/W4/GetBluePrint.uexp" 1232
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage5.uexp" 1233
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage5.umap" 1234
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage4.uexp" 1235
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage4.umap" 1236
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage3.uexp" 1237
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage3.umap" 1238
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage2.uexp" 1239
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage2.umap" 1240
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage1.uexp" 1241
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_Stage1.umap" 1242
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_ProceduralGeneration.uexp" 1243
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World4/W4_ProceduralGeneration.umap" 1244
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/FoodTypes.uasset" 1245
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/FoodTypes.uexp" 1246
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/NumPad.uasset" 1247
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/NumPad.uexp" 1248
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/BooleanOperations.uasset" 1249
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/BooleanOperations.uexp" 1250
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/VisualNumPad.uasset" 1251
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/VisualNumPad.uexp" 1252
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/Or_machine.uasset" 1253
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/Or_machine.uexp" 1254
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/Or_machine_Sprite.uasset" 1255
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/Or_machine_Sprite.uexp" 1256
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/Notmachine.uasset" 1257
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/Notmachine.uexp" 1258
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/Notmachine_Sprite.uasset" 1259
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/Notmachine_Sprite.uexp" 1260
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/And_machine.uasset" 1261
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Textures/Operators/And_machine.uexp" 1262
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/And_machine_Sprite.uasset" 1263
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/Sprites/Operators/And_machine_Sprite.uexp" 1264
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/Operators.uasset" 1265
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/Operators.uexp" 1266
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_ConfirmButton.uasset" 1267
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_ConfirmButton.uexp" 1268
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage3.uexp" 1269
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage3.umap" 1270
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage2.uexp" 1271
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage2.umap" 1272
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage1.uexp" 1273
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_Stage1.umap" 1274
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_ProceduralGeneration.uexp" 1275
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/GameWorld/World3/W3_ProceduralGeneration.umap" 1276
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/MainMenuGameMode.uasset" 1277
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/MainMenuGameMode.uexp" 1278
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/TitleScreen.uasset" 1279
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/TitleScreen.uexp" 1280
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Sessions.uasset" 1281
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Sessions.uexp" 1282
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Join.uasset" 1283
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Join.uexp" 1284
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/JoinOrCreate.uasset" 1285
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/JoinOrCreate.uexp" 1286
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/main--menu__1_.ubulk" 1287
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/main--menu__1_.uasset" 1288
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/main--menu__1_.uexp" 1289
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/Main_menu_music.uasset" 1290
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Music/Main_menu_music.uexp" 1291
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/MainMenu.uexp" 1292
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/MainMenu.umap" 1293
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/LobbyClientWaiting.uasset" 1294
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/LobbyClientWaiting.uexp" 1295
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Create.uasset" 1296
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/Widgets/Create.uexp" 1297
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/Lobby.uexp" 1298
+"D:/Unreal Engine 5/save_files/FoodForThought/Content/MainMenu_Lobby/Lobby.umap" 1299
